@@ -3,17 +3,17 @@
 <!--
 **yaminmhd/yaminmhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a versatile full-stack software engineer with a track record of successfully delivering web applications in agile environments. Well-versed in software engineering best practices, agile methodologies, and possesses comprehensive knowledge across the entire web development stack, from frontend interfaces to backend systems
+I'm a versatile full-stack software engineer with a track record of successfully delivering web applications in agile environments. Well-versed in software engineering best practices, agile development, GitOps practices, and possesses comprehensive knowledge across the entire web development stack, from frontend interfaces to backend systems.
 
-**Main Languages**
+**Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,java&perline=3)](https://skillicons.dev)
 
-**Main FE Frameworks & Tools**
+**FE Frameworks & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs&perline=7)](https://skillicons.dev)
 
-**Main BE Frameworks & Tools**
+**BE Frameworks & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,docker,postgres,mysql&perline=6)](https://skillicons.dev)
 
@@ -25,7 +25,7 @@ I'm a versatile full-stack software engineer with a track record of successfully
 
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,grafana,elasticsearch&perline=4)](https://skillicons.dev)
 
-**Dev tools**
+**Dev Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git&perline=22)](https://skillicons.dev)
 
