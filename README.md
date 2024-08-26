@@ -11,15 +11,19 @@ I'm a versatile full-stack software engineer with a track record of successfully
 
 **Main FE Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs&perline=7)](https://skillicons.dev)
 
 **Main BE Frameworks & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,docker,postgres,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,docker,postgres,mysql&perline=6)](https://skillicons.dev)
 
 **Testing Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=cypress,jest,vite,vitest&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,jest,vitest&perline=4)](https://skillicons.dev)
+
+**GitOps**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,grafana,elasticsearch&perline=4)](https://skillicons.dev)
 
 **Dev tools**
 
@@ -27,6 +31,7 @@ I'm a versatile full-stack software engineer with a track record of successfully
 
 - 🔭 I’m currently working on react, typescript, nodejs and nextjs projects 
 - 🌱 I’m currently reading up/interested in nestjs, domain-driven-design, hexagonal-architecture, software-architecture
+- 📚 I'm currently pursuing CKAD and AWS SA
 
 ---
 
