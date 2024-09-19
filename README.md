@@ -29,9 +29,8 @@ I'm a versatile full-stack software engineer with a track record of successfully
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git&perline=22)](https://skillicons.dev)
 
-- 🔭 I’m currently working on react, typescript, nodejs and nextjs projects 
-- 🌱 I’m currently reading up/interested in nestjs, domain-driven-design, hexagonal-architecture, software-architecture
-- 📚 I'm currently pursuing CKAD and AWS SA
+- 🔭 I’m currently working on typescript, nodejs, react and nextjs projects 
+- 🌱 I’m currently reading up/interested in nestjs, domain-driven-design, hexagonal-architecture, software-architecture, CKAD, AWS SA
 
 ---
 
